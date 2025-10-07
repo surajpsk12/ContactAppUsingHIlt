@@ -86,5 +86,5 @@ MIT © 2025 [Suraj Kumar](https.github.com/surajpsk12)
 
 *   **Suraj Kumar**
 *   **Email**: [sk658139@gmail.com](mailto:sk658139@gmail.com)
-*   **LinkedIn**: [linkedin.com/in/surajpsk12](www.linkedin.com/in/surajvansh12)
+*   **LinkedIn**: [www.linkedin.com/in/surajvansh12](www.linkedin.com/in/surajvansh12)
 *   **GitHub**: [github.com/surajpsk12](https://github.com/surajpsk12)
